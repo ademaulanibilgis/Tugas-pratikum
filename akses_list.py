@@ -1,0 +1,10 @@
+nama =['abel','lando','dipa','rayi','rama']
+print()
+print("list :",nama)
+print()
+print('nama element ke-3 adalah :',nama[3])
+print()
+print('mengambil element ke-2 dan ke-4 :',nama[2],'dan',nama[4])
+print()
+print('mengambil element terakhir :',nama[-1])
+print()
